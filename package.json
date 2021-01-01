@@ -6,10 +6,10 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vue": "^3.0.3"
+    "vue": "^3.0.5"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.3",
+    "@vue/compiler-sfc": "^3.0.5",
     "eslint": "^7.12.1",
     "eslint-plugin-vue": "^7.1.0",
     "gl-matrix": "^3.3.0",
