@@ -3,9 +3,12 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "load-worker": "node bin/loadWorker.mjs"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.1.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
